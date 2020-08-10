@@ -3,6 +3,7 @@ var gimage=null;
 var rimage=null;
 var rainimage=null;
 var oimage=null;
+var output;
 var dd1=document.getElementById("d1");
 var dd2=document.getElementById("d2");
 function upload()
@@ -25,6 +26,7 @@ function r(){
     gimage=null;
     rimage=null;
     rainimage=null;
+    output=null;
 }
 function greyscale(){
   
