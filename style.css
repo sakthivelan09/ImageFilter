@@ -1,0 +1,51 @@
+h1{
+  color:red;
+  font-family:arial;
+}
+canvas{
+  border: 2px solid black;
+  width:500px;
+  height:300px;
+}
+p{
+  color:blue;
+  font-size:15pt;
+}
+body{
+  background-color:wheat;
+}
+#grey{
+  color:red;
+  background-color:yellow;
+}
+#win{
+  color:red;
+  background-color:yellow;
+}
+#red{
+  color:red;
+  background-color:yellow;
+}
+#reset{
+  color:red;
+  background-color:yellow;
+}
+input {
+  font-size: 15pt;
+}
+#red{
+  color:red;
+  background-color:yellow;
+}
+#rain{
+  color:red;
+  background-color:yellow;
+}
+#blur{
+  color:red;
+  background-color:yellow;
+}
+#f{
+  color:red;
+  font-size: 40px;
+}
