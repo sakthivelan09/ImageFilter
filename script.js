@@ -210,6 +210,7 @@ function getPixelNearby (fimage, x, y, diameter) {
     return fimage.getPixel(nx, ny);
 }
 function win(){
+  if(check(fimage)!=null){
   oimagew=oimage.getWidth()-30;
   oimageh=oimage.getHeight()-30;
   for(var pix of oimage.values())
@@ -253,4 +254,5 @@ function win(){
       
     }
   oimage.drawTo(dd2);
+}
 }
