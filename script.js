@@ -27,6 +27,7 @@ function r(){
     rimage=null;
     rainimage=null;
     output=null;
+    oimage=null;
 }
 function greyscale(){
   
